@@ -10,8 +10,8 @@ Change source as follows.
 
 以下のようにソースを変更します。
 
-    // Set your hosting server address and path. Generally, if you use local server, 'http://localhost:portNumber/songs/'.
-    // サーバアドレスとパスを書きます。一般的に言って、もしあなたがローカルサーバを用いるなら 'http://localhost:ポート番号/songs/'
+    // Set your hosting server address and path. Generally, if you use local server, write here 'http://localhost:portNumber/songs/'.
+    // サーバアドレスとパスを書きます。一般的に言って、もしあなたがローカルサーバを用いるなら 'http://localhost:ポート番号/songs/' になります。
     var baseURL = 'http://localhost:8080/songs/'
 
     var songs = [
