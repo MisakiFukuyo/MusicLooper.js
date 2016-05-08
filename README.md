@@ -2,6 +2,10 @@
 
 MusicLooper.js / 曲の終わり際で自然に初めの方に戻って無限ループしてくれる奴.js
 
+## Screenshot / スクリーンショット
+
+<img src='https://raw.githubusercontent.com/TakafumiFukuyo/MusicLooper.js/master/screenshot.jpg'>
+
 ## Usage / 使い方
 
 ### 1. Change source / ソースの変更
